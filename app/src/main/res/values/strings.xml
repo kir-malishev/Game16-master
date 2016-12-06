@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game18</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="type">Выберите фигуру</string>
+    <string name="notype">Вы не выбрали фигуру</string>
+    <string name="click">Кликай</string>
+    <string name="add">Добавить</string>
+    <string name="verymuch">Слишком много!</string>
+    <string name="square">Квадрат</string>
+    <string name="circle">Круг</string>
+    <string name="triangle">Треугольник</string>
+    <string name="addsquare">Вы добавили квадрат</string>
+    <string name="addcircle">Вы добавили круг</string>
+    <string name="addtriangle">Вы добавили треугольник</string>
+
+    <string-array name="types">
+        <item>Квадрат</item>
+        <item>Круг</item>
+        <item>Треугольник</item>
+    </string-array>
+
+</resources>

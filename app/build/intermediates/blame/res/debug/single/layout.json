@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\Game16-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidApps\\Game16-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidApps\\Game16-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "D:\\AndroidApps\\Game16-master\\app\\src\\main\\res\\layout\\activity_start.xml"
+    }
+]
